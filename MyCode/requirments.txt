@@ -1,5 +1,0 @@
-Flask == 2.0.2
-
-yfinance == 1.67
-
-gunicorn == 20.1.0
