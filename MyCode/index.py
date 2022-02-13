@@ -1,5 +1,4 @@
-from crypt import methods
-from flask import Flask, redirect, render_template, request, url_for, methods
+from flask import Flask, redirect, render_template, request, url_for
 import yfinance as yf
 
 app = Flask(__name__)
